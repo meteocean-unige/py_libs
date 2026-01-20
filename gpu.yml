@@ -1,0 +1,34 @@
+name: gpu 
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - xarray
+  - netcdf4
+  - dask
+  - matplotlib
+  - cartopy
+  - metpy
+  - scikit-learn
+  - xgboost
+  - seaborn
+  - statsmodels
+  - pyproj
+  - shapely
+  - pint
+  - pyarrow
+  - plotly
+  - tqdm
+  - pyyaml
+  - lxml
+  - pip:
+      - xclim
+      - xsdba
+      - yamale
+      - tensorflow==2.20.0
+      - keras==3.11.3
+      - torch==2.6.0
