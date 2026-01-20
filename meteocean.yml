@@ -1,0 +1,33 @@
+name: meteocean
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - cartopy
+  - cf_xarray
+  - cfgrib
+  - cftime
+  - cfunits
+  - cmocean
+  - conda-pack
+  - geopandas
+  - joblib
+  - jupyter
+  - jupyter-forward
+  - mamba
+  - matplotlib-base
+  - nc-time-axis
+  - netcdf4
+  - numpy
+  - pandas
+  - pyarrow
+  - pyproj
+  - seaborn
+  - shapely
+  - xarray
+  - esmf=8.3.1
+  - mpi=1.0=mpich
+  - xesmf
+  - fsspeci
+  - SkillMetrics
+  - pyextremes

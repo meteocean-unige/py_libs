@@ -1,0 +1,24 @@
+name: sfincs
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cartopy
+  - cmocean
+  - conda-pack
+  - geopandas
+  - joblib
+  - jupyter
+  - jupyter-forward
+  - mamba
+  - matplotlib
+  - nc-time-axis
+  - netcdf4
+  - numpy
+  - pandas
+  - pyarrow
+  - pyproj
+  - seaborn
+  - xarray
+  - esmf
+  - xesmf
