@@ -7,7 +7,9 @@ dependencies:
   - numpy
   - scipy
   - pandas
+  - geopandas
   - xarray
+  - rioxarray
   - netcdf4
   - dask
   - matplotlib
@@ -32,3 +34,4 @@ dependencies:
       - tensorflow==2.20.0
       - keras==3.11.3
       - torch==2.6.0
+
