@@ -22,3 +22,7 @@ dependencies:
   - xarray
   - esmf
   - xesmf
+  - pip:
+    - hydromt-sfincs==2.0.0rc1
+    - hydromt
+
